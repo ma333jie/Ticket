@@ -11,9 +11,5 @@ Some of the key functions:
 4. Deployed server to Amazon EC2.
 
 Sturcture of this project: 
-![Structure](Ticketing Structure.png)
 
-Sample Page: 
-
-
-
+![alt text](Structure.png)
